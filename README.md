@@ -2,7 +2,7 @@
 
 Template Landing Page Website Portfolio
 
-![design](https://user-images.githubusercontent.com/62225185/132271594-92833336-d3bb-4986-937f-76e4de9802ec.jpg)
+![design](https://user-images.githubusercontent.com/62225185/132274272-3edbfd3d-0142-461f-ad97-8812e1ddbe1e.jpg)
 
 Dibuat menggunakan :
 
