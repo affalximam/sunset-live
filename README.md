@@ -12,6 +12,7 @@ Dibuat menggunakan :
 
 => Animation On Scrool (https://michalsnik.github.io/aos/)
 
+=> Flickity (https://flickity.metafizzy.co)
 
 Design:
 
