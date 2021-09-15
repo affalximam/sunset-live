@@ -1,6 +1,6 @@
 # Sunset Live
 
-Sunset Live merupakan sebuah template Web Portfolio Pribadi sederhana.
+Sunset Live merupakan sebuah template landing page Web Portfolio Pribadi sederhana.
 
 ![design](https://user-images.githubusercontent.com/62225185/132274272-3edbfd3d-0142-461f-ad97-8812e1ddbe1e.jpg)
 
