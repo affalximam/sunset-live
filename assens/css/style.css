@@ -1305,12 +1305,15 @@ footer .footer-2 a i {
 footer .footer-2 a:hover {
   background-color: var(--color-nine);
   transform: rotate(-45deg);
+  transform-origin: center center;
 }
 
 footer .footer-2 a:hover i {
   color: var(--color-eight);
   transform: rotate(45deg);
+  transform-origin: center center;
 }
+
 footer .footer-3 p {
   text-align: center;
   color: var(--color-nine);
